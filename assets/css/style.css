@@ -330,8 +330,8 @@ button.custom-link {
     font-weight: 500;
     line-height: 17px;
     font-family: 'Poppins';
-    margin-left: 0px;
-    padding: 0;
+    margin-left: 0px !important;
+    padding: 0 !important;
     color: var(--secondary-grey) !important
 }
 /* .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
