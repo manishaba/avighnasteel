@@ -520,8 +520,8 @@ tbody tr td:nth-child(2) {
     border: 0 !important;
     outline: 0 !important;
     box-shadow: none;
-    margin-left: 18px;
-    padding: 10px 0px 10px 0px;
+    margin-left: 18px !important;
+    padding: 10px 0px 10px 0px !important;
 }
 .custom-orange.active {
     border: 0 !important;
